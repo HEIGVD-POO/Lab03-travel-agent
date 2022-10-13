@@ -1,6 +1,6 @@
 # Laboratoire 3. UML
 
-_Durée du laboratoire: 2 périodes. A rendre le mardi 11 octobre 2016, au début de la séance de laboratoire._
+_Durée du laboratoire: 2 périodes. A rendre le vendredi 21 octobre 2022, au début de la séance de laboratoire._
 
 ## Agence de voyage
 
@@ -27,6 +27,7 @@ Le système doit permettre d’effectuer les opérations suivantes (parmis d’a
 - Indiquer toutes les cardinalités des associations ainsi que leur nom (ou leurs rôles).
 - Indiquer les signatures des méthodes nécessaires pour répondre aux traitements de la donnée.
 - Spécifier en français les contraintes d’intégrité qui ne peuvent pas être exprimées sur le diagramme.
+- Il n'est pas nécessaire d'indiquer le sens de navigation des associations
 
 ### Rendu
 Le diagramme de classes ainsi que les contraintes d’intégrité éventuelles sont à rendre sous format papier, bien
