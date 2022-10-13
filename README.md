@@ -1,6 +1,6 @@
 # Laboratoire 3. UML
 
-_Durée du laboratoire: 2 périodes. A rendre le jeudi 20 octobre 2022, au début de la séance de laboratoire (13h15)._
+_Durée du laboratoire: 2 périodes. A rendre le vendredi 21 octobre 2022, au début de la séance de laboratoire._
 
 ## Agence de voyage
 
